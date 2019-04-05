@@ -33,3 +33,6 @@ res = minimize(
 [1] K. M. Nakanishi, K. Fujii, and S. Todo. 2019.
 Sequential minimal optimization for quantum-classical hybrid algorithms.
 arXiv preprint arXiv:1903.12166.
+
+## License
+Apache-2.0 License (see LICENSE file).
