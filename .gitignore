@@ -1,0 +1,8 @@
+docs/_build/
+build/
+dist/
+*.egg-info/
+make.bat
+.pytest_cache/
+*.pyc
+venv/
