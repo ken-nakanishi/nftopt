@@ -1,4 +1,4 @@
-# Nakanishi-Fujii-Todo method
+# Nakanishi-Fujii-Todo method (nftopt)
 
 This is Nakanishi-Fujii-Todo method (arXiv:1903.12166) for `scipy.optimize.minimize`.
 
