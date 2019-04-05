@@ -1,5 +1,7 @@
 # Nakanishi-Fujii-Todo method for scipy.optimize
 
+[![Build Status](https://travis-ci.org/ken-nakanishi/nftopt.svg?branch=master)](https://travis-ci.org/ken-nakanishi/nftopt)
+
 This is Nakanishi-Fujii-Todo method (arXiv:1903.12166) for `scipy.optimize.minimize`.
 
 The optimization function have to satisfy three conditions written in [1].
